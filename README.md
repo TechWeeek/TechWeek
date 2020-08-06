@@ -40,8 +40,8 @@
 
 **Collaborator**
 
-| [<img src="https://avatars1.githubusercontent.com/u/26876591?s=460&u=eccd58fd1bb71d539e24259ed0224bc166a7c7f1&v=4" width="100">](https://github.com/Haeeeun)| [<img src="https://avatars1.githubusercontent.com/u/55937575?s=460&u=1b566258db4581ba708c68b2b78bac4e676bf147&v=4" width="100">](https://github.com/dodi258) | [<img src="https://avatars1.githubusercontent.com/u/26589915?s=460&u=1a6a2709e92e99b5b5868f741493b08c91dea686&v=4" width="100">](https://github.com/Seungyeon-Lee) |
-| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: |
+| [<img src="https://avatars1.githubusercontent.com/u/26876591?s=460&u=eccd58fd1bb71d539e24259ed0224bc166a7c7f1&v=4" width="100">](https://github.com/Haeeeun)| [<img src="https://avatars1.githubusercontent.com/u/55937575?s=460&u=1b566258db4581ba708c68b2b78bac4e676bf147&v=4" width="100">](https://github.com/dodi258) | [<img src="https://avatars1.githubusercontent.com/u/26589915?s=460&u=1a6a2709e92e99b5b5868f741493b08c91dea686&v=4" width="100">](https://github.com/Seungyeon-Lee) | [<img src="https://avatars1.githubusercontent.com/u/54020487?s=460&v=4" width="100">](https://github.com/heeyeon-developer) |
+| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 
 <br>
 
