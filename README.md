@@ -28,7 +28,7 @@
 ## Desgin Pattern
 
 ## Language
-- [[Javascript] 호출스택](https://hceaan.tistory.com/48)
+- [Javascript 호출스택](https://hceaan.tistory.com/48)
 - [C++과 Java의 차이점](https://n-square.tistory.com/33)
 
 ## ETC
