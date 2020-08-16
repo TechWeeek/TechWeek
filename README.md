@@ -12,16 +12,16 @@
 - [ETC](#etc)
 
 ## Web
-- [SPA](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/200723_SPA.md)
+- [SPA](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.23_SPA.md)
 - [Vue Cli? Webpack? 간단 개념](https://hceaan.tistory.com/41)
 - [SSR과 CSR이란?](https://n-square.tistory.com/40)
 - [웹 페이지 렌더링 과정](https://blog.naver.com/dodi258/222038685105)
 - [package.json](https://hceaan.tistory.com/42)
-- [Angular Vue React 차이](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/200803_Angular_React_Vue.md)
+- [Angular Vue React 차이](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.03_Angular_React_Vue.md)
 - [시맨틱하게 HTML짜기](https://hceaan.tistory.com/46)
 - [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
 - [Proxy(Proxy Server)는 무엇일까?](https://blog.naver.com/dodi258/222056878199)
-- [앱과 웹사이트의 차이점](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/200812_%EC%95%B1%EA%B3%BC%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+- [앱과 웹사이트의 차이점](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.12_%EC%95%B1%EA%B3%BC%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
 ## Algorithm
 
@@ -36,7 +36,7 @@
 ## ETC
 - 클라우드
 - [REST API란?](https://n-square.tistory.com/38)
-- [Hadoop](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/200716_Hadoop%EC%9D%B4%EB%9E%80.md)
+- [Hadoop](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.16_Hadoop%EC%9D%B4%EB%9E%80.md)
 - [SSO란?](https://n-square.tistory.com/46)
 
 
