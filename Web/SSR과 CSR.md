@@ -1,6 +1,7 @@
 ## SSR과 CSR
 <blockquote cite="https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8">
 <p> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F3GTws%2FbtqFURvXr0y%2FFO9BlRE4NnPSs3I1BTh7Ik%2Fimg.png"></img>
+<br>
 출처: The Benefits of Server Side Rendering Over Client Side Rendering 
 </p>
 </blockquote>
@@ -26,6 +27,7 @@
 
 <blockquote cite="https://www.truebil.com/blog/what-shifting-to-server-side-rendering-looks-like">
 <p> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdXTzOU%2FbtqFUAnIVR3%2FfEJwoZ6tMNnjWskLynCzi0%2Fimg.png"></img>
+<br>
 출처 : What shifting to server-side rendering looks like!
 </p>
 </blockquote>
@@ -50,8 +52,14 @@
 
 하지만 view가 보여진 후 이미지를 클릭하거나 인터렉션을 하게 되면 즉각적으로 클라이언트에서 view를 새로 제공함으로써 인터렉션 속도는 빠르게 보여진다.
 
-클라이언트 사이드 렌더링의 문제점으로는 SEO(Search Engine Optimization, 검색 엔진 최적화)와 보안 문제가 발생한다.
+클라이언트 사이드 렌더링의 문제점으로는 <sup>[1](#seo)</sup>SEO(Search Engine Optimization, 검색 엔진 최적화)와 보안 문제가 발생한다.
 
+
+<b id="seo"><sup>1</sup></b>SEO (Search Engine Optimization)
+
+대부분의 웹 크롤러, 봇들은 JavaScript를 실행시키지 못하고 (Googlebot의 경우는 JS를 실행가능하지만 다른 검색엔진은 대부분 지원하지 않는다) HTML에서만 컨텐츠를 수집하기 때문에 CSR 방식으로 개발된 페이지를 빈 페이지로 인식한다.
+
+따라서 로딩 중에 검색 엔진이 색인할 만한 컨텐츠가 존재하지 않게 되고, 문제가 발생하게 된다.[↩](#seo)<br>
 <br>
 
 참고 자료
