@@ -22,6 +22,7 @@
 - [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
 - [Proxy(Proxy Server)는 무엇일까?](https://blog.naver.com/dodi258/222056878199)
 - [앱과 웹사이트의 차이점](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.12_%EC%95%B1%EA%B3%BC%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+- [웹팩이란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.17_%EC%9B%B9%ED%8C%A9%EC%9D%B4%EB%9E%80.md)
 
 ## Algorithm
 
