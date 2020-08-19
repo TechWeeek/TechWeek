@@ -1,12 +1,12 @@
 
-## SSR과 CSR
+## REST API
 <blockquote cite="https://digital-goal.net/foundation-of-restful-api-architecture/">
 <p> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcnaZul%2FbtqGe6MggNK%2FqlmjutLJN4UOJhmmmFUSv1%2Fimg.png"></img>
 <br>
 출처 : Foundation Of RESTful API Architecture
 </p>
 </blockquote>
-<br>
+
 
 
 ### REST (REpresentational State Transfer)
