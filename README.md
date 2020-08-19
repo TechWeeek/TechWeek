@@ -14,7 +14,7 @@
 ## Web
 - [SPA](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.23_SPA.md)
 - [Vue Cli? Webpack? 간단 개념](https://hceaan.tistory.com/41)
-- [SSR과 CSR이란?](https://n-square.tistory.com/40)
+- [SSR과 CSR이란?](https://github.com/Haeeeun/TechWeek/blob/master/Web/SSR%EA%B3%BC%20CSR.md)
 - [웹 페이지 렌더링 과정](https://blog.naver.com/dodi258/222038685105)
 - [package.json](https://hceaan.tistory.com/42)
 - [Angular Vue React 차이](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.03_Angular_React_Vue.md)
@@ -36,7 +36,7 @@
 
 ## ETC
 - 클라우드
-- [REST API란?](https://n-square.tistory.com/38)
+- [REST API란?](https://github.com/Haeeeun/TechWeek/blob/master/Web/REST%20API.md)
 - [Hadoop](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.16_Hadoop%EC%9D%B4%EB%9E%80.md)
 - [SSO란?](https://n-square.tistory.com/46)
 
