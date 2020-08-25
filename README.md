@@ -28,9 +28,10 @@
 ## Algorithm
 
 ## Computer Science
-- [MVC, MVP, MVVM](https://n-square.tistory.com/51)
+- [용어 정리 - Framwork, Library, Module, Component, API](https://blog.naver.com/dodi258/222069825412)
 
 ## Desgin Pattern
+- [MVC, MVP, MVVM](https://n-square.tistory.com/51)
 
 ## Language
 - [Javascript 호출스택](https://hceaan.tistory.com/48)
