@@ -28,6 +28,7 @@
 ## Algorithm
 
 ## Computer Science
+- [MVC, MVP, MVVM](https://n-square.tistory.com/51)
 
 ## Desgin Pattern
 
