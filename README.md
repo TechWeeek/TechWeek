@@ -1,4 +1,5 @@
 <h3 align="center">Tech Week!</h3>
+<img src="techWeek.jpg"></img>
 <p align="center">
   BFS식 공부법. 기술 면접을 위한 얕고 넓은 지식.
 </p>
