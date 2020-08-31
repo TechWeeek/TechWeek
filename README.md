@@ -27,6 +27,7 @@
 - [Node.js](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.24_Nodejs%EB%9E%80.md)
 
 ## Algorithm
+- [DFS & BFS](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.31_DFS%26BFS.md)
 
 ## Computer Science
 - [용어 정리 - Framwork, Library, Module, Component, API](https://blog.naver.com/dodi258/222069825412)
