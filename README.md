@@ -26,6 +26,7 @@
 - [웹팩이란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.17_%EC%9B%B9%ED%8C%A9%EC%9D%B4%EB%9E%80.md)
 - [Node.js](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.24_Nodejs%EB%9E%80.md)
 - [CORS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.14_CORS%EB%9E%80.md)
+- [이벤트 버블링과 캡처링](https://hceaan.tistory.com/59?category=844766)
 
 
 ## Algorithm
