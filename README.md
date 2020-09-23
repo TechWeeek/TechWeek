@@ -27,6 +27,7 @@
 - [Node.js](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.24_Nodejs%EB%9E%80.md)
 - [CORS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.14_CORS%EB%9E%80.md)
 - [이벤트 버블링과 캡처링](https://hceaan.tistory.com/59?category=844766)
+- [HTTP와 TCP/TP](https://blog.naver.com/dodi258/222095128743)
 
 ## Algorithm
 - [DFS & BFS](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.31_DFS%26BFS.md)
