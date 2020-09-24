@@ -27,7 +27,7 @@
 - [Node.js](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.24_Nodejs%EB%9E%80.md)
 - [CORS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.14_CORS%EB%9E%80.md)
 - [이벤트 버블링과 캡처링](https://hceaan.tistory.com/59?category=844766)
-- [HTTP와 TCP/TP](https://blog.naver.com/dodi258/222095128743)
+- [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
 
 ## Algorithm
 - [DFS & BFS](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.31_DFS%26BFS.md)
@@ -49,8 +49,9 @@
 - 클라우드
 - [REST API란?](https://github.com/Haeeeun/TechWeek/blob/master/Web/REST%20API.md)
 - [Hadoop](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.16_Hadoop%EC%9D%B4%EB%9E%80.md)
-- [SSO란?](https://n-square.tistory.com/46)
+- [SSO란?](https://github.com/Haeeeun/TechWeek/blob/master/ETC/SSO.md)
 - [암호화 기법](https://n-square.tistory.com/66)
+- [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
 
 <br>
 <details>
@@ -95,6 +96,12 @@
 - 희연 : CORS란?
 - 승연 : 암호화 기법
 - 해은 : 이벤트 버블링과 캡처링
+
+#### 8주차 (2020. 09. 21)
+- 희연 : FULL, MERN, MEAN 개발이란?
+- 승연 : 안드로이드 액티비티 생명주기
+- 해은 : 혼자하는 개발이 만드는 자만심 / 나는 프론트엔드를 안다고 말할 수 있을까?
+- 세인 : HTTP 와 TCP/IP (TCP, IP, DNS)
 
 </details>
 <br>
