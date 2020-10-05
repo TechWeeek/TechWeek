@@ -28,7 +28,7 @@
 - [CORS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.14_CORS%EB%9E%80.md)
 - [이벤트 버블링과 캡처링](https://hceaan.tistory.com/59?category=844766)
 - [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
-- [MERN](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.21_MERN%EC%8A%A4%ED%83%9D.md)
+- [MERN스택](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.21_MERN%EC%8A%A4%ED%83%9D.md)
 
 ## Algorithm
 - [DFS & BFS](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.31_DFS%26BFS.md)
