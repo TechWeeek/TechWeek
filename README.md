@@ -34,6 +34,7 @@
 - [DFS & BFS](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.31_DFS%26BFS.md)
 - [정렬 알고리즘](https://n-square.tistory.com/61)
 - [비트 마스크](https://blog.naver.com/dodi258/222076203948)
+- [Backtracking](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.05_Backtracking.md)
 
 ## Computer Science
 - [용어 정리 - Framwork, Library, Module, Component, API](https://blog.naver.com/dodi258/222069825412)
