@@ -37,6 +37,7 @@
 - [Backtracking](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.05_Backtracking.md)
 
 ## Computer Science
+- [객체지향 프로그래밍이란?](https://n-square.tistory.com/72)
 - [용어 정리 - Framwork, Library, Module, Component, API](https://blog.naver.com/dodi258/222069825412)
 
 ## Desgin Pattern
@@ -100,10 +101,16 @@
 - 해은 : 이벤트 버블링과 캡처링
 
 #### 8주차 (2020. 09. 21)
-- 희연 : FULL, MERN, MEAN 개발이란?
+- 희연 : MERN스택
 - 승연 : 안드로이드 액티비티 생명주기
 - 해은 : 혼자하는 개발이 만드는 자만심 / 나는 프론트엔드를 안다고 말할 수 있을까?
 - 세인 : HTTP 와 TCP/IP (TCP, IP, DNS)
+
+### 9주차 (2020. 10. 05)
+희연 : Backtracking
+승연 : 객체지향 프로그래밍이란?
+해은 : PWA (Progressive Web App)
+세인 : try? catch? 예외처리란 뭐 하는 건가요?
 
 </details>
 <br>
