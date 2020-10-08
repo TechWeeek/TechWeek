@@ -106,11 +106,11 @@
 - 해은 : 혼자하는 개발이 만드는 자만심 / 나는 프론트엔드를 안다고 말할 수 있을까?
 - 세인 : HTTP 와 TCP/IP (TCP, IP, DNS)
 
-### 9주차 (2020. 10. 05)
-희연 : Backtracking
-승연 : 객체지향 프로그래밍이란?
-해은 : PWA (Progressive Web App)
-세인 : try? catch? 예외처리란 뭐 하는 건가요?
+#### 9주차 (2020. 10. 05)
+- 희연 : Backtracking
+- 승연 : 객체지향 프로그래밍이란?
+- 해은 : PWA (Progressive Web App)
+- 세인 : try? catch? 예외처리란 뭐 하는 건가요?
 
 </details>
 <br>
