@@ -35,6 +35,7 @@
 - [정렬 알고리즘](https://n-square.tistory.com/61)
 - [비트 마스크](https://blog.naver.com/dodi258/222076203948)
 - [Backtracking](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.05_Backtracking.md)
+- [최단 경로 문제](https://n-square.tistory.com/76)
 
 ## Computer Science
 - [객체지향 프로그래밍이란?](https://n-square.tistory.com/72)
@@ -111,6 +112,11 @@
 - 승연 : 객체지향 프로그래밍이란?
 - 해은 : PWA (Progressive Web App)
 - 세인 : try? catch? 예외처리란 뭐 하는 건가요?
+
+#### 10주차 (2020. 10. 12)
+- 희연 : SaaS란?
+- 승연 : 최단 경로 문제
+- 해은 : 호이스팅과 클로저
 
 </details>
 <br>
