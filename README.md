@@ -29,6 +29,7 @@
 - [이벤트 버블링과 캡처링](https://hceaan.tistory.com/59?category=844766)
 - [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
 - [MERN스택](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.21_MERN%EC%8A%A4%ED%83%9D.md)
+- [SaaS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.12_IaaS%2CPaaS%2CSaaS.md)
 
 ## Algorithm
 - [DFS & BFS](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.31_DFS%26BFS.md)
