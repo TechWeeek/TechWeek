@@ -49,6 +49,8 @@
 - [Javascript 호출스택](https://hceaan.tistory.com/48)
 - [C++과 Java의 차이점](https://n-square.tistory.com/33)
 - [Javascript 모듈시스템](https://hceaan.tistory.com/56?category=844766)
+- [Javascript 스코프와 호이스팅](https://hceaan.tistory.com/9?category=844766)
+- [Javascript 클로저](https://hceaan.tistory.com/25?category=844766)
 
 ## ETC
 - 클라우드
