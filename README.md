@@ -11,6 +11,7 @@
 - [Design Pattern](#desgin-pattern)
 - [Language](#language)
 - [ETC](#etc)
+- [Network](#network)
 
 ## Web
 - [SPA](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.23_SPA.md)
@@ -20,14 +21,11 @@
 - [package.json](https://hceaan.tistory.com/42)
 - [Angular Vue React 차이](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.03_Angular_React_Vue.md)
 - [시맨틱하게 HTML짜기](https://hceaan.tistory.com/46)
-- [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
-- [Proxy(Proxy Server)는 무엇일까?](https://blog.naver.com/dodi258/222056878199)
 - [앱과 웹사이트의 차이점](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.12_%EC%95%B1%EA%B3%BC%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [웹팩이란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.17_%EC%9B%B9%ED%8C%A9%EC%9D%B4%EB%9E%80.md)
 - [Node.js](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.08.24_Nodejs%EB%9E%80.md)
 - [CORS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.14_CORS%EB%9E%80.md)
 - [이벤트 버블링과 캡처링](https://hceaan.tistory.com/59?category=844766)
-- [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
 - [MERN스택](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.21_MERN%EC%8A%A4%ED%83%9D.md)
 - [SaaS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.12_IaaS%2CPaaS%2CSaaS.md)
 
@@ -51,6 +49,11 @@
 - [Javascript 모듈시스템](https://hceaan.tistory.com/56?category=844766)
 - [Javascript 스코프와 호이스팅](https://hceaan.tistory.com/9?category=844766)
 - [Javascript 클로저](https://hceaan.tistory.com/25?category=844766)
+
+## Network
+- [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
+- [Proxy(Proxy Server)는 무엇일까?](https://blog.naver.com/dodi258/222056878199)
+- [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
 
 ## ETC
 - 클라우드
