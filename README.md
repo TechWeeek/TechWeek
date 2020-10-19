@@ -34,6 +34,7 @@
 - [Javascript 모듈시스템](https://hceaan.tistory.com/56?category=844766)
 - [Javascript 스코프와 호이스팅](https://hceaan.tistory.com/9?category=844766)
 - [Javascript 클로저](https://hceaan.tistory.com/25?category=844766)
+- [얕은 복사와 깊은 복사](https://n-square.tistory.com/79)
 
 ## Network
 - [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
@@ -124,6 +125,12 @@
 - 희연 : SaaS란?
 - 승연 : 최단 경로 문제
 - 해은 : 호이스팅과 클로저
+
+#### 11주차 (2020. 10. 19)
+- 희연 : DP
+- 승연 : 얕은 복사와 깊은 복사
+- 해은 : 함수형 프로그래밍
+- 세인 : HTTPS
 
 </details>
 <br>
