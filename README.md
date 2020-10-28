@@ -28,6 +28,7 @@
 
 ## Desgin Pattern
 - [MVC, MVP, MVVM](https://n-square.tistory.com/51)
+- [싱글턴 패턴 (Singleton Pattern)](https://n-square.tistory.com/80)
 
 ## Language
 - [C++과 Java의 차이점](https://n-square.tistory.com/33)
