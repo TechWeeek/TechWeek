@@ -59,6 +59,8 @@
 - [이벤트 버블링과 캡처링](https://hceaan.tistory.com/59?category=844766)
 - [MERN스택](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.21_MERN%EC%8A%A4%ED%83%9D.md)
 - [SaaS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.12_IaaS%2CPaaS%2CSaaS.md)
+- [AJAX란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.26_AJAX%EB%9E%80.md)
+
 
 ## ETC
 - 클라우드
