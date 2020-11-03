@@ -137,6 +137,12 @@
 - 해은 : 함수형 프로그래밍
 - 세인 : HTTPS
 
+#### 12주차 (2020. 11. 02)
+- 희연 : AJAX란?
+- 승연 : 싱글턴 패턴 (Singleton Pattern)
+- 해은 : Javascript 프로토타입
+- 세인 : 힙 Heap
+
 </details>
 <br>
 
