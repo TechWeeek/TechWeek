@@ -37,7 +37,7 @@
 - [Javascript 스코프와 호이스팅](https://hceaan.tistory.com/9?category=844766)
 - [Javascript 클로저](https://hceaan.tistory.com/25?category=844766)
 - [얕은 복사와 깊은 복사](https://n-square.tistory.com/79)
-- [Javascript 프로토타입] (https://hceaan.tistory.com/69?category=844766)
+- [Javascript 프로토타입](https://hceaan.tistory.com/69?category=844766)
 
 ## Network
 - [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
