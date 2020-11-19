@@ -69,6 +69,7 @@
 - [SSO란?](https://github.com/Haeeeun/TechWeek/blob/master/ETC/SSO.md)
 - [암호화 기법](https://n-square.tistory.com/66)
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
+- [PWA란?](https://hceaan.tistory.com/65?category=844773)
 
 <br>
 <details>
