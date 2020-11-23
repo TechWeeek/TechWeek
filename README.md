@@ -11,6 +11,7 @@
 - [Language](#language)
 - [Network](#network)
 - [Web](#web)
+- [Database](#database)
 - [ETC](#etc)
 
 ## Algorithm
@@ -60,6 +61,9 @@
 - [MERN스택](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.21_MERN%EC%8A%A4%ED%83%9D.md)
 - [SaaS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.12_IaaS%2CPaaS%2CSaaS.md)
 - [AJAX란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.26_AJAX%EB%9E%80.md)
+
+## Database
+- [Optimizer](https://keep-daily-story.tistory.com/4)
 
 
 ## ETC
