@@ -64,6 +64,7 @@
 
 ## Database
 - [Optimizer](https://keep-daily-story.tistory.com/4)
+- [SQL Index](https://keep-daily-story.tistory.com/5)
 
 
 ## ETC
