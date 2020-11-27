@@ -61,6 +61,7 @@
 - [MERN스택](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.09.21_MERN%EC%8A%A4%ED%83%9D.md)
 - [SaaS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.12_IaaS%2CPaaS%2CSaaS.md)
 - [AJAX란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.26_AJAX%EB%9E%80.md)
+- [www.도메인.com 을 치면 일어나는 일](https://n-square.tistory.com/86)
 
 ## Database
 - [Optimizer](https://keep-daily-story.tistory.com/4)
@@ -150,7 +151,12 @@
 - 세인 : 힙 Heap
 
 #### 13주차 (2020. 11. 19)
-- 승연, 해은, 세인 동점. (각각 5문제 맞춤!)
+- 복습주 : 승연, 해은, 세인 동점. (각각 5문제 맞춤!)
+
+#### 14주차 (2020. 11. 26)
+- 승연 : www.도메인.com 을 치면 일어나는 일
+- 해은 : 애자일에 대해
+- 세인 : 토큰(token), 세션(session) - 사용 이유, 비교
 
 </details>
 <br>
