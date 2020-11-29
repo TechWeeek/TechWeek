@@ -21,11 +21,13 @@
 - [Backtracking](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.05_Backtracking.md)
 - [최단 경로 문제](https://n-square.tistory.com/76)
 - [DP](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.19_DP.md)
+- [힙(Heap)](https://blog.naver.com/dodi258/222036457312)
 
 ## Computer Science
 - [객체지향 프로그래밍이란?](https://n-square.tistory.com/72)
 - [용어 정리 - Framwork, Library, Module, Component, API](https://blog.naver.com/dodi258/222069825412)
 - [함수형 프로그래밍이란?](https://hceaan.tistory.com/66?category=844773)
+
 
 ## Desgin Pattern
 - [MVC, MVP, MVVM](https://n-square.tistory.com/51)
@@ -44,6 +46,7 @@
 - [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
 - [Proxy(Proxy Server)는 무엇일까?](https://blog.naver.com/dodi258/222056878199)
 - [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
+- [HTTPS](https://blog.naver.com/dodi258/222120425138)
 
 ## Web
 - [SPA](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.23_SPA.md)
@@ -62,6 +65,7 @@
 - [SaaS란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.12_IaaS%2CPaaS%2CSaaS.md)
 - [AJAX란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.26_AJAX%EB%9E%80.md)
 - [www.도메인.com 을 치면 일어나는 일](https://n-square.tistory.com/86)
+- [토큰(token), 세션(session) - 사용 이유, 비교](https://blog.naver.com/dodi258/222155481625)
 
 ## Database
 - [Optimizer](https://keep-daily-story.tistory.com/4)
