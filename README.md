@@ -81,6 +81,7 @@
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
 - [PWA란?](https://hceaan.tistory.com/65?category=844773)
 - [애자일에 대해](https://hceaan.tistory.com/85)
+- [머신러닝과 딥러닝의 차이](https://n-square.tistory.com/88)
 
 <br>
 <details>
@@ -162,6 +163,11 @@
 - 승연 : www.도메인.com 을 치면 일어나는 일
 - 해은 : 애자일에 대해
 - 세인 : 토큰(token), 세션(session) - 사용 이유, 비교
+
+#### 15주차 (2020. 11. 30)
+- 승연 : 머신러닝과 딥러닝의 차이
+- 해은 : 웹서버와 WAS
+- 세인 : 엑시오스(Axios) - 무엇이고, Node.js에서 사용하기
 
 </details>
 <br>
