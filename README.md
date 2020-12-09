@@ -82,6 +82,7 @@
 - [PWA란?](https://hceaan.tistory.com/65?category=844773)
 - [애자일에 대해](https://hceaan.tistory.com/85)
 - [머신러닝과 딥러닝의 차이](https://n-square.tistory.com/88)
+- [TDD란?](https://n-square.tistory.com/90)
 
 <br>
 <details>
@@ -168,6 +169,11 @@
 - 승연 : 머신러닝과 딥러닝의 차이
 - 해은 : 웹서버와 WAS
 - 세인 : 엑시오스(Axios) - 무엇이고, Node.js에서 사용하기
+
+#### 16주차 (2020. 12. 07)
+- 승연 : TDD란?
+- 해은 : Javascript의 동기와 비동기
+- 세인 : 사랑받는 신입 개발자가 되는 법 / 개발자의 글쓰기
 
 </details>
 <br>
