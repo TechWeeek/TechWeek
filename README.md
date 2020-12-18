@@ -10,8 +10,9 @@
 - [Design Pattern](#desgin-pattern)
 - [Language](#language)
 - [Network](#network)
-- [Web](#web)
 - [Database](#database)
+- [Web](#web)
+- [Android](#android)
 - [ETC](#etc)
 
 ## Algorithm
@@ -48,6 +49,10 @@
 - [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
 - [HTTPS](https://blog.naver.com/dodi258/222120425138)
 
+## Database
+- [Optimizer](https://keep-daily-story.tistory.com/4)
+- [SQL Index](https://keep-daily-story.tistory.com/5)
+
 ## Web
 - [SPA](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.23_SPA.md)
 - [Vue Cli? Webpack? 간단 개념](https://hceaan.tistory.com/41)
@@ -67,10 +72,9 @@
 - [www.도메인.com 을 치면 일어나는 일](https://n-square.tistory.com/86)
 - [토큰(token), 세션(session) - 사용 이유, 비교](https://blog.naver.com/dodi258/222155481625)
 
-## Database
-- [Optimizer](https://keep-daily-story.tistory.com/4)
-- [SQL Index](https://keep-daily-story.tistory.com/5)
-
+## Android
+- [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
+- [안드로이드 클린 아키텍처](https://n-square.tistory.com/91)
 
 ## ETC
 - 클라우드
@@ -78,7 +82,6 @@
 - [Hadoop](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.07.16_Hadoop%EC%9D%B4%EB%9E%80.md)
 - [SSO란?](https://github.com/Haeeeun/TechWeek/blob/master/ETC/SSO.md)
 - [암호화 기법](https://n-square.tistory.com/66)
-- [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
 - [PWA란?](https://hceaan.tistory.com/65?category=844773)
 - [애자일에 대해](https://hceaan.tistory.com/85)
 - [머신러닝과 딥러닝의 차이](https://n-square.tistory.com/88)
@@ -174,6 +177,11 @@
 - 승연 : TDD란?
 - 해은 : Javascript의 동기와 비동기
 - 세인 : 사랑받는 신입 개발자가 되는 법 / 개발자의 글쓰기
+
+#### 17주차 (2020. 12. 18)
+- 승연 : 안드로이드 클린 아키텍처
+- 해은 : CSS Framework 목록
+- 세인 : Spring boot - DAO, DTO, Entity Class 차이
 
 </details>
 <br>
