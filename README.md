@@ -42,6 +42,7 @@
 - [Javascript 클로저](https://hceaan.tistory.com/25?category=844766)
 - [얕은 복사와 깊은 복사](https://n-square.tistory.com/79)
 - [Javascript 프로토타입](https://hceaan.tistory.com/69?category=844766)
+- [Javascript의 동기와 비동기](https://hceaan.tistory.com/90?category=844766)
 
 ## Network
 - [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
@@ -71,6 +72,7 @@
 - [AJAX란?](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.26_AJAX%EB%9E%80.md)
 - [www.도메인.com 을 치면 일어나는 일](https://n-square.tistory.com/86)
 - [토큰(token), 세션(session) - 사용 이유, 비교](https://blog.naver.com/dodi258/222155481625)
+- [웹서버와 WAS](https://hceaan.tistory.com/87?category=844773)
 
 ## Android
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
