@@ -86,6 +86,7 @@
 - [애자일에 대해](https://hceaan.tistory.com/85)
 - [머신러닝과 딥러닝의 차이](https://n-square.tistory.com/88)
 - [TDD란?](https://n-square.tistory.com/90)
+- [개발 용어 정리](https://hceaan.tistory.com/88)
 
 <br>
 <details>
@@ -180,7 +181,7 @@
 
 #### 17주차 (2020. 12. 18)
 - 승연 : 안드로이드 클린 아키텍처
-- 해은 : CSS Framework 목록
+- 해은 : 개발 용어 정리
 - 세인 : Spring boot - DAO, DTO, Entity Class 차이
 
 </details>
