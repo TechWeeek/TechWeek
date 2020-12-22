@@ -78,6 +78,7 @@
 ## Android
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
 - [안드로이드 클린 아키텍처](https://n-square.tistory.com/91)
+- [DI (Dependency Injection)란?](https://n-square.tistory.com/92)
 
 ## ETC
 - 클라우드
@@ -185,7 +186,12 @@
 #### 17주차 (2020. 12. 18)
 - 승연 : 안드로이드 클린 아키텍처
 - 해은 : 개발 용어 정리
-- 세인 : Spring boot - DAO, DTO, Entity Class 차이
+- 세인 : Spring boot
+
+#### 18주차 (2020. 12. 21)
+- 승연 : DI (Dependency Injection)란?
+- 해은 : DP
+- 세인 : SSH
 
 </details>
 <br>
