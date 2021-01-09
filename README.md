@@ -74,6 +74,7 @@
 - [www.도메인.com 을 치면 일어나는 일](https://n-square.tistory.com/86)
 - [토큰(token), 세션(session) - 사용 이유, 비교](https://blog.naver.com/dodi258/222155481625)
 - [웹서버와 WAS](https://hceaan.tistory.com/87?category=844773)
+- [JAM Stack](https://hceaan.tistory.com/97)
 
 ## Android
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
@@ -192,6 +193,11 @@
 - 승연 : DI (Dependency Injection)란?
 - 해은 : DP
 - 세인 : SSH
+
+#### 19주차 (2021. 01. 09)
+- 승연 : 해시충돌
+- 해은 : JAM Stack
+- 세인 : 클린 소프트웨어 - 리팩토링
 
 </details>
 <br>
