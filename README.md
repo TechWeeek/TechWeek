@@ -22,8 +22,8 @@
 - [Backtracking](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.05_Backtracking.md)
 - [최단 경로 문제](https://n-square.tistory.com/76)
 - [DP](https://github.com/heeyeon-developer/STUDY_WEB/blob/master/2020.10.19_DP.md)
-- [힙(Heap)](https://blog.naver.com/dodi258/222036457312)
 - [DP2](https://hceaan.tistory.com/92)
+- [힙(Heap)](https://blog.naver.com/dodi258/222036457312)
 
 ## Computer Science
 - [객체지향 프로그래밍이란?](https://n-square.tistory.com/72)
@@ -92,6 +92,7 @@
 - [머신러닝과 딥러닝의 차이](https://n-square.tistory.com/88)
 - [TDD란?](https://n-square.tistory.com/90)
 - [개발 용어 정리](https://hceaan.tistory.com/88)
+- [해시 충돌](https://n-square.tistory.com/93)
 
 <br>
 <details>
@@ -195,7 +196,7 @@
 - 세인 : SSH
 
 #### 19주차 (2021. 01. 09)
-- 승연 : 해시충돌
+- 승연 : 해시 충돌
 - 해은 : JAM Stack
 - 세인 : 클린 소프트웨어 - 리팩토링
 
