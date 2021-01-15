@@ -29,6 +29,7 @@
 - [객체지향 프로그래밍이란?](https://n-square.tistory.com/72)
 - [용어 정리 - Framwork, Library, Module, Component, API](https://blog.naver.com/dodi258/222069825412)
 - [함수형 프로그래밍이란?](https://hceaan.tistory.com/66?category=844773)
+- [코드 컨벤션](https://n-square.tistory.com/97)
 
 
 ## Desgin Pattern
@@ -199,6 +200,11 @@
 - 승연 : 해시 충돌
 - 해은 : JAM Stack
 - 세인 : 클린 소프트웨어 - 리팩토링
+
+#### 20주차 (2021. 01. 15)
+- 승연 : 코드 컨벤션
+- 해은 : 개발자의 평생공부
+- 세인 : Optional
 
 </details>
 <br>
