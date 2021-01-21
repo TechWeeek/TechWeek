@@ -94,6 +94,7 @@
 - [TDD란?](https://n-square.tistory.com/90)
 - [개발 용어 정리](https://hceaan.tistory.com/88)
 - [해시 충돌](https://n-square.tistory.com/93)
+- [개발자의 평생공부](https://hceaan.tistory.com/99)
 
 <br>
 <details>
