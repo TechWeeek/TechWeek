@@ -81,6 +81,7 @@
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
 - [안드로이드 클린 아키텍처](https://n-square.tistory.com/91)
 - [DI (Dependency Injection)란?](https://n-square.tistory.com/92)
+- [딥 링크Deep Link](https://n-square.tistory.com/99)
 
 ## ETC
 - 클라우드
@@ -211,6 +212,10 @@
 #### 21주차 (2021. 01. 22)
 - 승연 : 그로스 해킹이란?
 - 해은 : TypeScript
+
+#### 22주차 (2021. 02. 05)
+- 승연 : 딥 링크Deep Link
+- 해은 : BFC(Block Formatting Context)
 
 </details>
 <br>
