@@ -35,6 +35,7 @@
 ## Desgin Pattern
 - [MVC, MVP, MVVM](https://n-square.tistory.com/51)
 - [싱글턴 패턴 (Singleton Pattern)](https://n-square.tistory.com/80)
+- [널 오브젝트 패턴](https://blog.naver.com/dodi258/222238555406)
 
 ## Language
 - [C++과 Java의 차이점](https://n-square.tistory.com/33)
@@ -82,6 +83,7 @@
 - [안드로이드 클린 아키텍처](https://n-square.tistory.com/91)
 - [DI (Dependency Injection)란?](https://n-square.tistory.com/92)
 - [딥 링크Deep Link](https://n-square.tistory.com/99)
+- [어노테이션Annotation](https://n-square.tistory.com/100)
 
 ## ETC
 - 클라우드
@@ -216,6 +218,12 @@
 #### 22주차 (2021. 02. 05)
 - 승연 : 딥 링크Deep Link
 - 해은 : BFC(Block Formatting Context)
+
+#### 23주차 (2021. 03. 05)
+- 희연 : ERP와 그룹웨어
+- 승연 : 어노테이션Annotation
+- 해은 : 자바스크립트의 원시 타입(Primitive Type)
+- 세인 : 널 오브젝트 패턴
 
 </details>
 <br>
