@@ -84,6 +84,7 @@
 - [DI (Dependency Injection)란?](https://n-square.tistory.com/92)
 - [딥 링크Deep Link](https://n-square.tistory.com/99)
 - [어노테이션Annotation](https://n-square.tistory.com/100)
+- [Debouncing과 Throttling](https://n-square.tistory.com/106)
 
 ## ETC
 - 클라우드
