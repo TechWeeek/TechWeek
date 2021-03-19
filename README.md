@@ -84,7 +84,7 @@
 - [DI (Dependency Injection)란?](https://n-square.tistory.com/92)
 - [딥 링크Deep Link](https://n-square.tistory.com/99)
 - [어노테이션Annotation](https://n-square.tistory.com/100)
-- [Debouncing과 Throttling](https://n-square.tistory.com/106)
+- [Debounce / Throttle](https://n-square.tistory.com/106)
 
 ## ETC
 - 클라우드
@@ -225,6 +225,11 @@
 - 승연 : 어노테이션Annotation
 - 해은 : 자바스크립트의 원시 타입(Primitive Type)
 - 세인 : 널 오브젝트 패턴
+
+#### 24주차 (2021. 03. 19)
+- 승연 : Debounce / Throttle
+- 해은 : 웹의 접근성
+- 세인 : git (rebase, squash and merge)
 
 </details>
 <br>
