@@ -36,6 +36,7 @@
 - [MVC, MVP, MVVM](https://n-square.tistory.com/51)
 - [싱글턴 패턴 (Singleton Pattern)](https://n-square.tistory.com/80)
 - [널 오브젝트 패턴](https://blog.naver.com/dodi258/222238555406)
+- [반복자 패턴(Iterator Pattern)](https://n-square.tistory.com/112)
 
 ## Language
 - [C++과 Java의 차이점](https://n-square.tistory.com/33)
@@ -236,7 +237,7 @@
 - 세인 : docker (간단 정리)
 
 #### 26주차 (2021. 04. 08)
-- 승연 : 반복자(Iterator) 패턴
+- 승연 : 반복자 패턴(Iterator Pattern)
 - 해은 : UI 디자인을 빠르게 개선하기 위한 9가지 팁
 - 세인 : git checkout
 
