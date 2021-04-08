@@ -231,6 +231,15 @@
 - 해은 : 웹의 접근성
 - 세인 : git (rebase, squash and merge)
 
+#### 25주차 (2021. 04. 01)
+- 해은 : 프로젝트 자가 진단, wearable 자가발전 기술
+- 세인 : docker (간단 정리)
+
+#### 26주차 (2021. 04. 08)
+- 승연 : 반복자(Iterator) 패턴
+- 해은 : UI 디자인을 빠르게 개선하기 위한 9가지 팁
+- 세인 : git checkout
+
 </details>
 <br>
 
