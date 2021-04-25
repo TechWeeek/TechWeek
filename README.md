@@ -30,7 +30,7 @@
 - [용어 정리 - Framwork, Library, Module, Component, API](https://blog.naver.com/dodi258/222069825412)
 - [함수형 프로그래밍이란?](https://hceaan.tistory.com/66?category=844773)
 - [코드 컨벤션](https://n-square.tistory.com/97)
-
+- [프로세스와 스레드](https://n-square.tistory.com/122)
 
 ## Desgin Pattern
 - [MVC, MVP, MVVM](https://n-square.tistory.com/51)
@@ -240,6 +240,11 @@
 - 승연 : 반복자 패턴(Iterator Pattern)
 - 해은 : UI 디자인을 빠르게 개선하기 위한 9가지 팁
 - 세인 : git checkout
+
+#### 27주차 (2021. 04. 22)
+- 승연 : 프로세스와 스레드
+- 해은 : git 영어 커밋 메세지 작성 가이드
+- 세인
 
 </details>
 <br>
