@@ -251,6 +251,11 @@
 - 승연 : Reactive Programing이란?
 - 해은 : 개발 경력 관리
 - 세인 : 자바의 중요한 Metrics
+  
+#### 29주차 (2021. 05. 20)
+- 승연 : Blocking IO / Non Blocking IO
+- 해은 : 신뢰가 가는 개발자의 7가지 특징
+- 세인 : Redis
 
 </details>
 <br>
