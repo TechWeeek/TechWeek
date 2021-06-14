@@ -55,6 +55,7 @@
 - [Proxy(Proxy Server)는 무엇일까?](https://blog.naver.com/dodi258/222056878199)
 - [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
 - [HTTPS](https://blog.naver.com/dodi258/222120425138)
+- [로드밸런싱](https://n-square.tistory.com/125)
 
 ## Database
 - [Optimizer](https://keep-daily-story.tistory.com/4)
@@ -257,6 +258,11 @@
 - 승연 : Blocking IO / Non Blocking IO
 - 해은 : 신뢰가 가는 개발자의 7가지 특징
 - 세인 : Redis
+  
+#### 30주차 (2021. 06. 10)
+- 승연 : 로드밸런싱
+- 해은 : 브라우저 렌더링
+- 세인 : handlebars 
 
 </details>
 <br>
