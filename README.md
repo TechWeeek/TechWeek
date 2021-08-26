@@ -56,6 +56,7 @@
 - [HTTP와 TCP/IP](https://blog.naver.com/dodi258/222095128743)
 - [HTTPS](https://blog.naver.com/dodi258/222120425138)
 - [로드밸런싱](https://n-square.tistory.com/125)
+- [Stateless와 Stateful](https://n-square.tistory.com/129)
 
 ## Database
 - [Optimizer](https://keep-daily-story.tistory.com/4)
@@ -263,6 +264,17 @@
 - 승연 : 로드밸런싱
 - 해은 : 브라우저 렌더링
 - 세인 : handlebars 
+
+  
+#### 30주차 (2021. 06. 10)
+- 승연 : 로드밸런싱
+- 해은 : 브라우저 렌더링
+- 세인 : handlebars 
+  
+#### 31주차 (2021. 08. 26)
+- 승연 : Stateless와 Stateful
+- 해은 : Rest와 GraphQL
+- 세인 : '읽기 좋은 코드가 좋은 코드다' 책 소개
 
 </details>
 <br>
