@@ -1,8 +1,8 @@
-<h3 align="center">Tech Week!</h3>
-<div align="center"><img src="techweek_logo.png"></img></div>
-<p align="center">
+<div align="center"><img width="300" src="https://user-images.githubusercontent.com/26876591/193517722-f4702856-5e7a-46c3-99fd-2379edd9dba8.png"></img>
+</div>
+<h5 align="center">
   BFS식 공부법. 기술 면접을 위한 얕고 넓은 지식.
-</p>
+</h5>
 
 ## Table of Contents
 - [Algorithm](#algorithm)
