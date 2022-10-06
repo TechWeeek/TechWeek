@@ -83,6 +83,7 @@
 - [토큰(token), 세션(session) - 사용 이유, 비교](https://blog.naver.com/dodi258/222155481625)
 - [웹서버와 WAS](https://hceaan.tistory.com/87?category=844773)
 - [JAM Stack](https://hceaan.tistory.com/97)
+- [MyBatis & JPA](https://keep-daily-story.tistory.com/48)
 
 ## Android
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
