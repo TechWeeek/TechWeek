@@ -33,6 +33,7 @@
 - [프로세스와 스레드](https://n-square.tistory.com/122)
 - [Reactive Programing이란?](https://n-square.tistory.com/109)
 - [Blocking IO / Non Blocking IO](https://n-square.tistory.com/124)
+- [CI / CD](https://n-square.tistory.com/139)
 
 ## Desgin Pattern
 - [MVC, MVP, MVVM](https://n-square.tistory.com/51)
@@ -275,6 +276,16 @@
 - 승연 : Stateless와 Stateful
 - 해은 : Rest와 GraphQL
 - 세인 : '읽기 좋은 코드가 좋은 코드다' 책 소개
+
+</details>
+<br>
+
+<details>
+<summary> 시즌2 주차별 정리 </summary>
+#### 1주차 (2022. 10. 06)
+- 승연 : CI/CD
+- 해은 : Javascript 이벤트 처리
+- 희연 : MyBatis vs JPA
 
 </details>
 <br>
