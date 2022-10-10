@@ -50,6 +50,7 @@
 - [얕은 복사와 깊은 복사](https://n-square.tistory.com/79)
 - [Javascript 프로토타입](https://hceaan.tistory.com/69?category=844766)
 - [Javascript의 동기와 비동기](https://hceaan.tistory.com/90?category=844766)
+- [Javascript의 Promise](https://hceaan.tistory.com/144)
 
 ## Network
 - [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
@@ -283,9 +284,10 @@
 
 <details>
 <summary> 시즌2 주차별 정리 </summary>
+
 #### 1주차 (2022. 10. 06)
 - 승연 : CI/CD
-- 해은 : Javascript 이벤트 처리
+- 해은 : Javascript Promise
 - 희연 : MyBatis vs JPA
 
 </details>
