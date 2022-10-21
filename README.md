@@ -85,6 +85,7 @@
 - [웹서버와 WAS](https://hceaan.tistory.com/87?category=844773)
 - [JAM Stack](https://hceaan.tistory.com/97)
 - [MyBatis & JPA](https://keep-daily-story.tistory.com/48)
+- [WEB 3.0](https://hceaan.tistory.com/145)
 
 ## Android
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
@@ -289,6 +290,11 @@
 - 승연 : CI/CD
 - 해은 : Javascript Promise
 - 희연 : MyBatis vs JPA
+
+#### 2주차 (2022. 10. 21)
+- 승연 : 
+- 해은 : WEB 3.0
+- 희연 : 
 
 </details>
 <br>
