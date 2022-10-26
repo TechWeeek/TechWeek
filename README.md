@@ -87,6 +87,7 @@
 - [JAM Stack](https://hceaan.tistory.com/97)
 - [MyBatis & JPA](https://keep-daily-story.tistory.com/48)
 - [WEB 3.0](https://hceaan.tistory.com/145)
+- [HTTP Method](https://keep-daily-story.tistory.com/49)
 
 ## Android
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
@@ -296,7 +297,12 @@
 #### 2주차 (2022. 10. 21)
 - 승연 : SCM (Software Configuration Management)
 - 해은 : WEB 3.0
-- 희연 : 
+- 희연 : LCS 알고리즘
+
+#### 3주차 (2022. 10. 27)
+- 승연 :
+- 해은 :
+- 희연 : HTTP Method
 
 </details>
 <br>
