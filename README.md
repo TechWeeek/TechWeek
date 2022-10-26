@@ -110,6 +110,7 @@
 - [해시 충돌](https://n-square.tistory.com/93)
 - [개발자의 평생공부](https://hceaan.tistory.com/99)
 - [그로스 해킹이란?](https://n-square.tistory.com/98)
+- [SCM (Software Configuration Management)](https://n-square.tistory.com/140)
 
 <br>
 <details>
@@ -293,7 +294,7 @@
 - 희연 : MyBatis vs JPA
 
 #### 2주차 (2022. 10. 21)
-- 승연 : 
+- 승연 : SCM (Software Configuration Management)
 - 해은 : WEB 3.0
 - 희연 : 
 
