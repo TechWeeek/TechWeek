@@ -113,6 +113,7 @@
 - [개발자의 평생공부](https://hceaan.tistory.com/99)
 - [그로스 해킹이란?](https://n-square.tistory.com/98)
 - [SCM (Software Configuration Management)](https://n-square.tistory.com/140)
+- [Color Blending](https://n-square.tistory.com/142)
 
 <br>
 <details>
@@ -301,7 +302,7 @@
 - 희연 : LCS 알고리즘
 
 #### 3주차 (2022. 11. 03)
-- 승연 :
+- 승연 : Color Blending
 - 해은 :
 - 희연 : HTTP Method, Docker
 
