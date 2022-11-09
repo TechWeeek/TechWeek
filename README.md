@@ -60,6 +60,7 @@
 - [HTTPS](https://blog.naver.com/dodi258/222120425138)
 - [로드밸런싱](https://n-square.tistory.com/125)
 - [Stateless와 Stateful](https://n-square.tistory.com/129)
+- [스케일링](https://keep-daily-story.tistory.com/51)
 
 ## Database
 - [Optimizer](https://keep-daily-story.tistory.com/4)
@@ -305,6 +306,11 @@
 - 승연 : Color Blending
 - 해은 :
 - 희연 : HTTP Method, Docker
+
+#### 4주차 (2022. 11. 11)
+- 승연 :
+- 해은 : 
+- 희연 : 스케일링
 
 </details>
 <br>
