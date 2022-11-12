@@ -12,6 +12,7 @@
 - [Network](#network)
 - [Database](#database)
 - [Web](#web)
+- [Game & Art](#game-and-art)
 - [Android](#android)
 - [ETC](#etc)
 
@@ -91,6 +92,10 @@
 - [HTTP Method](https://keep-daily-story.tistory.com/49)
 - [Docker란](https://keep-daily-story.tistory.com/50)
 
+## Game and Art
+- [BlendMode](https://n-square.tistory.com/142)
+- [Rendering Pipeline](https://n-square.tistory.com/143)
+
 ## Android
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
 - [안드로이드 클린 아키텍처](https://n-square.tistory.com/91)
@@ -114,7 +119,6 @@
 - [개발자의 평생공부](https://hceaan.tistory.com/99)
 - [그로스 해킹이란?](https://n-square.tistory.com/98)
 - [SCM (Software Configuration Management)](https://n-square.tistory.com/140)
-- [Color Blending](https://n-square.tistory.com/142)
 
 <br>
 <details>
@@ -303,12 +307,12 @@
 - 희연 : LCS 알고리즘
 
 #### 3주차 (2022. 11. 03)
-- 승연 : Color Blending
+- 승연 : BlendMode
 - 해은 :
 - 희연 : HTTP Method, Docker
 
 #### 4주차 (2022. 11. 11)
-- 승연 :
+- 승연 : Rendering Pipeline
 - 해은 : 
 - 희연 : 스케일링
 
