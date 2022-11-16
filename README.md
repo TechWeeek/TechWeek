@@ -91,6 +91,7 @@
 - [WEB 3.0](https://hceaan.tistory.com/145)
 - [HTTP Method](https://keep-daily-story.tistory.com/49)
 - [Docker란](https://keep-daily-story.tistory.com/50)
+- [WebSocket](https://keep-daily-story.tistory.com/52)
 
 ## Game and Art
 - [BlendMode](https://n-square.tistory.com/142)
@@ -315,6 +316,11 @@
 - 승연 : Rendering Pipeline
 - 해은 : 
 - 희연 : 스케일링
+
+#### 5주차 (2022. 11. 17)
+- 승연 :
+- 해은 :
+- 희연 : WebSocket
 
 </details>
 <br>
