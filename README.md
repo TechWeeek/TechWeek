@@ -120,6 +120,7 @@
 - [개발자의 평생공부](https://hceaan.tistory.com/99)
 - [그로스 해킹이란?](https://n-square.tistory.com/98)
 - [SCM (Software Configuration Management)](https://n-square.tistory.com/140)
+- [동시성](https://keep-daily-story.tistory.com/56)
 
 <br>
 <details>
