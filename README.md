@@ -53,6 +53,7 @@
 - [Javascript 프로토타입](https://hceaan.tistory.com/69?category=844766)
 - [Javascript의 동기와 비동기](https://hceaan.tistory.com/90?category=844766)
 - [Javascript의 Promise](https://hceaan.tistory.com/144)
+- [Java의 동시성](https://keep-daily-story.tistory.com/56)
 
 ## Network
 - [URL (Uniform Resource Locator)](https://blog.naver.com/dodi258/222050170738)
