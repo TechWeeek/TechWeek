@@ -12,7 +12,7 @@
 - [Network](#network)
 - [Database](#database)
 - [Web](#web)
-- [Game & Art](#game-and-art)
+- [Graphics](#graphics)
 - [Android](#android)
 - [ETC](#etc)
 
@@ -94,9 +94,10 @@
 - [Docker란](https://keep-daily-story.tistory.com/50)
 - [WebSocket](https://keep-daily-story.tistory.com/52)
 
-## Game and Art
+## Graphics
 - [BlendMode](https://n-square.tistory.com/142)
 - [Rendering Pipeline](https://n-square.tistory.com/143)
+- [GPGPU](https://n-square.tistory.com/145)
 
 ## Android
 - [안드로이드 액티비티 생명 주기](https://n-square.tistory.com/67)
@@ -318,7 +319,7 @@
 - 해은 : 
 - 희연 : 스케일링
 
-#### 5주차 (2022. 11. 17)
+#### 5주차 (2022. 12. 22)
 - 승연 : GPGPU
 - 해은 : Next.js
 - 희연 : WebSocket
